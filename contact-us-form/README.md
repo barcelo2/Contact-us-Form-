@@ -12,7 +12,7 @@ It is a contact us form made using React and a Node backend.The projects uses th
 [Design inspired by  Hayden Bleasel](https://dribbble.com/shots/6746905-DailyUI-028-Contact-Us/attachments/6746905-DailyUI-028-Contact-Us?mode=media) 
 
 
-![Contact us form](/project.png "Contact us form")
+![Contact us form](https://github.com/barcelo2/Contact-us-Form-/blob/main/contact-us-form/project.png "Contact us form")
 
 
 ## Available Commands
